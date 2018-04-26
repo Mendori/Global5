@@ -1,0 +1,11 @@
+C:\Users\Mendori\Documents\GitHub\Global5\RazorPagesLesson\RazorPagesLesson\bin\Debug\netcoreapp2.0\RazorPagesLesson.deps.json
+C:\Users\Mendori\Documents\GitHub\Global5\RazorPagesLesson\RazorPagesLesson\bin\Debug\netcoreapp2.0\RazorPagesLesson.runtimeconfig.json
+C:\Users\Mendori\Documents\GitHub\Global5\RazorPagesLesson\RazorPagesLesson\bin\Debug\netcoreapp2.0\RazorPagesLesson.runtimeconfig.dev.json
+C:\Users\Mendori\Documents\GitHub\Global5\RazorPagesLesson\RazorPagesLesson\bin\Debug\netcoreapp2.0\RazorPagesLesson.dll
+C:\Users\Mendori\Documents\GitHub\Global5\RazorPagesLesson\RazorPagesLesson\obj\Debug\netcoreapp2.0\RazorPagesLesson.csprojResolveAssemblyReference.cache
+C:\Users\Mendori\Documents\GitHub\Global5\RazorPagesLesson\RazorPagesLesson\obj\Debug\netcoreapp2.0\RazorPagesLesson.csproj.CoreCompileInputs.cache
+C:\Users\Mendori\Documents\GitHub\Global5\RazorPagesLesson\RazorPagesLesson\obj\Debug\netcoreapp2.0\RazorPagesLesson.AssemblyInfoInputs.cache
+C:\Users\Mendori\Documents\GitHub\Global5\RazorPagesLesson\RazorPagesLesson\obj\Debug\netcoreapp2.0\RazorPagesLesson.AssemblyInfo.cs
+C:\Users\Mendori\Documents\GitHub\Global5\RazorPagesLesson\RazorPagesLesson\bin\Debug\netcoreapp2.0\RazorPagesLesson.pdb
+C:\Users\Mendori\Documents\GitHub\Global5\RazorPagesLesson\RazorPagesLesson\obj\Debug\netcoreapp2.0\RazorPagesLesson.dll
+C:\Users\Mendori\Documents\GitHub\Global5\RazorPagesLesson\RazorPagesLesson\obj\Debug\netcoreapp2.0\RazorPagesLesson.pdb
